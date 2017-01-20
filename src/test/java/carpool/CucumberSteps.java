@@ -20,7 +20,8 @@ public class CucumberSteps {
 		
 		Ride ride= new Ride();
 		ride.setEmail(arg1);
-		ride.setPhoneNo(arg2);	
+		ride.setPhoneNo(arg2);
+		System.out.println();
 		
 	}
 
